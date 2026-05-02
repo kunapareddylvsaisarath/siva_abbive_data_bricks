@@ -1,0 +1,15 @@
+{
+	"name": "sarath-data-factory-UAT",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Enabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "dcc02f32-6732-414f-8b11-87318f8844fa",
+		"tenantId": "f30c1084-62a1-4500-8279-ea181f667577"
+	}
+}
